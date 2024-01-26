@@ -70,7 +70,7 @@ public class MainPage {
         new WebDriverWait(driver, Duration.ofSeconds(10))
                 .until(ExpectedConditions.elementToBeClickable(btnOkDelete));
         btnOkDelete.click();
-        new WebDriverWait(driver, Duration.ofSeconds(10))
+        new WebDriverWait(driver, Duration.ofSeconds(15))
                 .until(ExpectedConditions.invisibilityOf(btnOkDelete));
     }
 }
