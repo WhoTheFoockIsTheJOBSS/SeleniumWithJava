@@ -14,8 +14,8 @@ public class ExecutionEngine extends Base{
     private static void executeActions() throws InvocationTargetException, IllegalAccessException {
         for (int i=0; i<methods.length; i++){
             if (methods[i].getName().equals(testStep.getActionKeyword())){
-                methods[i].invoke(actionKeywords, ReadObject.getInstance().getProperty(testStep.getPageObject()), testStep.getData());
-
+                testStepResult = (boolean) methods[i].invoke(actionKeywords, ReadObject.getInstance().getProperty(testStep.getPageObject()), testStep.getData());
+                //methods[i].invoke(actionKeywords, ReadObject.getInstance().getProperty(testStep.getPageObject()), testStep.getData());
                 break;
             }
         }

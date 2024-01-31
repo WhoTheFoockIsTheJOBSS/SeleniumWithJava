@@ -35,3 +35,8 @@
 [INFO ] 2024-01-30 18:24:19.101 [main] Log - Test is ending!
 [INFO ] 2024-01-30 18:24:20.022 [main] Log - Finishing method Test Class
 [INFO ] 2024-01-30 18:24:20.022 [main] Log - XXXXXXXXXXXXXXXXXXXXXXXXXXX     E--N--D    XXXXXXXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2024-01-31 16:49:25.514 [main] Log - Test is starting!
+[INFO ] 2024-01-31 16:49:27.917 [main] Log - DriverScript test is failed
+[INFO ] 2024-01-31 16:49:28.494 [main] Log - Test is ending!
+[INFO ] 2024-01-31 16:49:29.257 [main] Log - Finishing method Test Class
+[INFO ] 2024-01-31 16:49:29.258 [main] Log - XXXXXXXXXXXXXXXXXXXXXXXXXXX     E--N--D    XXXXXXXXXXXXXXXXXXXXXXXXXXX

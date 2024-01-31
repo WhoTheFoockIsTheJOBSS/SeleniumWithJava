@@ -1,0 +1,20 @@
+[INFO ] 2024-01-31 12:26:02.917 [main] Log - Test is starting!
+[INFO ] 2024-01-31 12:26:56.395 [main] Log - **********************************************************************
+[INFO ] 2024-01-31 12:26:56.412 [main] Log - loginWithRightCredentials test is starting
+[INFO ] 2024-01-31 12:26:56.413 [main] Log - **********************************************************************
+[INFO ] 2024-01-31 12:26:58.354 [main] Log - loginWithRightCredentials test is succed
+[INFO ] 2024-01-31 12:26:58.410 [main] Log - **********************************************************************
+[INFO ] 2024-01-31 12:26:58.411 [main] Log - createNewStudent test is starting
+[INFO ] 2024-01-31 12:26:58.411 [main] Log - **********************************************************************
+[INFO ] 2024-01-31 12:29:23.700 [main] Log - createNewStudent test is succed
+[INFO ] 2024-01-31 12:29:23.702 [main] Log - **********************************************************************
+[INFO ] 2024-01-31 12:29:23.703 [main] Log - createNewStudent test is starting
+[INFO ] 2024-01-31 12:29:23.703 [main] Log - **********************************************************************
+[INFO ] 2024-01-31 12:31:53.801 [main] Log - createNewStudent test is succed
+[INFO ] 2024-01-31 12:31:53.803 [main] Log - **********************************************************************
+[INFO ] 2024-01-31 12:31:53.803 [main] Log - createNewStudent test is starting
+[INFO ] 2024-01-31 12:31:53.804 [main] Log - **********************************************************************
+[INFO ] 2024-01-31 12:34:13.915 [main] Log - createNewStudent test is failed
+[INFO ] 2024-01-31 12:34:49.534 [main] Log - Test is ending!
+[INFO ] 2024-01-31 12:34:49.536 [main] Log - Finishing method Test Class
+[INFO ] 2024-01-31 12:34:49.537 [main] Log - XXXXXXXXXXXXXXXXXXXXXXXXXXX     E--N--D    XXXXXXXXXXXXXXXXXXXXXXXXXXX

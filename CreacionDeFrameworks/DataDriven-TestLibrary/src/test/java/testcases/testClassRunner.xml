@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="NavigationSuite">
+    <listeners>
+        <listener class-name="framework.utils.listeners.TestListener"/>
+        <listener class-name="framework.utils.listeners.AnnotationTransform"/>
+    </listeners>
+    <test name="Test Class">
+        <parameter name="browser" value="CHROME"/>
+        <classes>
+            <class name="testcases.LoginTest"/>
+            <class name="testcases.StudentTest"/>
+        </classes>
+    </test>
+</suite>
