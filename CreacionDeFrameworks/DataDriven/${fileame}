@@ -1,0 +1,139 @@
+[ERROR] 2024-01-26 17:24:56.601 [main] Log - Class ExcelUtils | Method getExcelTableArray | Exception desc: C:\Users\jobss\Desktop\TitaniumInstituteEjercicios\CreacionDeFrameworks\DataDriven\src\main\resources\dataresources\Users.xlsx (El sistema no puede encontrar la ruta especificada)
+[ERROR] 2024-01-26 17:24:56.635 [main] Log - Class ExcelUtils | Method getExcelTableArray | Exception desc: C:\Users\jobss\Desktop\TitaniumInstituteEjercicios\CreacionDeFrameworks\DataDriven\src\main\resources\dataresources\Users.xlsx (El sistema no puede encontrar la ruta especificada)
+[ERROR] 2024-01-26 17:31:50.980 [main] Log - Class ExcelUtils | Method getExcelTableArray | Exception desc: C:\Users\jobss\Desktop\TitaniumInstituteEjercicios\CreacionDeFrameworks\DataDriven\src\main\resources\dataresources\Users.xlsx (El sistema no puede encontrar la ruta especificada)
+[INFO ] 2024-01-26 17:31:50.997 [main] Log - loginWithWrongCredentials test is failed
+[INFO ] 2024-01-26 17:31:51.756 [main] Log - Finishing method Test Class
+[INFO ] 2024-01-26 17:31:51.756 [main] Log - XXXXXXXXXXXXXXXXXXXXXXXXXXX     E--N--D    XXXXXXXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2024-01-26 17:38:45.945 [main] Log - Test is starting!
+[ERROR] 2024-01-26 17:38:46.066 [main] Log - Class ExcelUtils | Method getExcelTableArray | Exception desc: C:\Users\jobss\Desktop\TitaniumInstituteEjercicios\CreacionDeFrameworks\DataDriven\src\main\resources\dataresources\Users.xlsx (El sistema no puede encontrar la ruta especificada)
+[INFO ] 2024-01-26 17:38:46.075 [main] Log - loginWithWrongCredentials test is failed
+[INFO ] 2024-01-26 17:38:46.979 [main] Log - Test is ending!
+[INFO ] 2024-01-26 17:38:47.947 [main] Log - Finishing method Test Class
+[INFO ] 2024-01-26 17:38:47.948 [main] Log - XXXXXXXXXXXXXXXXXXXXXXXXXXX     E--N--D    XXXXXXXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2024-01-26 17:41:18.680 [main] Log - Test is starting!
+[ERROR] 2024-01-26 17:41:18.824 [main] Log - Class ExcelUtils | Method getExcelTableArray | Exception desc: C:\Users\jobss\Desktop\TitaniumInstituteEjercicios\CreacionDeFrameworks\DataDriven\src\main\resources\dataresources\Users.xlsx (El sistema no puede encontrar la ruta especificada)
+[INFO ] 2024-01-26 17:41:18.837 [main] Log - loginWithWrongCredentials test is failed
+[INFO ] 2024-01-26 17:41:20.120 [main] Log - Test is ending!
+[INFO ] 2024-01-26 17:41:21.283 [main] Log - Finishing method Test Class
+[INFO ] 2024-01-26 17:41:21.285 [main] Log - XXXXXXXXXXXXXXXXXXXXXXXXXXX     E--N--D    XXXXXXXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2024-01-26 18:00:17.257 [main] Log - Test is starting!
+[INFO ] 2024-01-26 18:00:19.538 [main] Log - **********************************************************************
+[INFO ] 2024-01-26 18:00:19.539 [main] Log - loginWithWrongCredentials test is starting
+[INFO ] 2024-01-26 18:00:19.540 [main] Log - **********************************************************************
+[INFO ] 2024-01-26 18:00:38.619 [main] Log - loginWithWrongCredentials test is succed
+[INFO ] 2024-01-26 18:00:38.629 [main] Log - **********************************************************************
+[INFO ] 2024-01-26 18:00:38.630 [main] Log - loginWithWrongCredentials test is starting
+[INFO ] 2024-01-26 18:00:38.630 [main] Log - **********************************************************************
+[INFO ] 2024-01-26 18:00:52.516 [main] Log - loginWithWrongCredentials test is failed
+[INFO ] 2024-01-26 18:00:52.531 [main] Log - **********************************************************************
+[INFO ] 2024-01-26 18:00:52.532 [main] Log - loginWithWrongCredentials test is starting
+[INFO ] 2024-01-26 18:00:52.533 [main] Log - **********************************************************************
+[INFO ] 2024-01-26 18:01:09.375 [main] Log - loginWithWrongCredentials test is succed
+[INFO ] 2024-01-26 18:01:09.493 [main] Log - **********************************************************************
+[INFO ] 2024-01-26 18:01:09.494 [main] Log - loginWithRightCredentials test is starting
+[INFO ] 2024-01-26 18:01:09.494 [main] Log - **********************************************************************
+[INFO ] 2024-01-26 18:02:29.488 [main] Log - loginWithRightCredentials test is succed
+[INFO ] 2024-01-26 18:02:29.493 [main] Log - Test is ending!
+[INFO ] 2024-01-26 18:02:31.020 [main] Log - Finishing method Test Class
+[INFO ] 2024-01-26 18:02:31.021 [main] Log - XXXXXXXXXXXXXXXXXXXXXXXXXXX     E--N--D    XXXXXXXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2024-01-29 09:28:26.708 [main] Log - **********************************************************************
+[INFO ] 2024-01-29 09:28:26.725 [main] Log - loginWithWrongCredentials test is starting
+[INFO ] 2024-01-29 09:28:26.725 [main] Log - **********************************************************************
+[INFO ] 2024-01-29 09:28:26.728 [main] Log - loginWithWrongCredentials test is skipped
+[INFO ] 2024-01-29 09:28:28.090 [main] Log - loginWithWrongCredentials test is failed
+[INFO ] 2024-01-29 09:28:28.094 [main] Log - Finishing method Test Class
+[INFO ] 2024-01-29 09:28:28.106 [main] Log - XXXXXXXXXXXXXXXXXXXXXXXXXXX     E--N--D    XXXXXXXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2024-01-29 09:34:44.255 [main] Log - **********************************************************************
+[INFO ] 2024-01-29 09:34:44.267 [main] Log - loginWithWrongCredentials test is starting
+[INFO ] 2024-01-29 09:34:44.270 [main] Log - **********************************************************************
+[INFO ] 2024-01-29 09:34:44.271 [main] Log - loginWithWrongCredentials test is skipped
+[INFO ] 2024-01-29 09:34:45.007 [main] Log - loginWithWrongCredentials test is failed
+[INFO ] 2024-01-29 09:34:45.011 [main] Log - Finishing method Test Class
+[INFO ] 2024-01-29 09:34:45.011 [main] Log - XXXXXXXXXXXXXXXXXXXXXXXXXXX     E--N--D    XXXXXXXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2024-01-29 10:23:06.377 [main] Log - Test is starting!
+[INFO ] 2024-01-29 10:23:06.581 [main] Log - **********************************************************************
+[INFO ] 2024-01-29 10:23:06.584 [main] Log - loginWithWrongCredentials test is starting
+[INFO ] 2024-01-29 10:23:06.584 [main] Log - **********************************************************************
+[INFO ] 2024-01-29 10:23:30.114 [main] Log - loginWithWrongCredentials test is succed
+[INFO ] 2024-01-29 10:23:30.124 [main] Log - **********************************************************************
+[INFO ] 2024-01-29 10:23:30.124 [main] Log - loginWithWrongCredentials test is starting
+[INFO ] 2024-01-29 10:23:30.124 [main] Log - **********************************************************************
+[INFO ] 2024-01-29 10:23:46.125 [main] Log - loginWithWrongCredentials test is succed
+[INFO ] 2024-01-29 10:23:46.128 [main] Log - **********************************************************************
+[INFO ] 2024-01-29 10:23:46.128 [main] Log - loginWithWrongCredentials test is starting
+[INFO ] 2024-01-29 10:23:46.128 [main] Log - **********************************************************************
+[INFO ] 2024-01-29 10:24:03.075 [main] Log - loginWithWrongCredentials test is succed
+[INFO ] 2024-01-29 10:24:03.085 [main] Log - **********************************************************************
+[INFO ] 2024-01-29 10:24:03.086 [main] Log - loginWithRightCredentials test is starting
+[INFO ] 2024-01-29 10:24:03.086 [main] Log - **********************************************************************
+[INFO ] 2024-01-29 10:24:20.170 [main] Log - loginWithRightCredentials test is failed
+[INFO ] 2024-01-29 10:24:20.209 [main] Log - Test is ending!
+[INFO ] 2024-01-29 10:24:21.006 [main] Log - Finishing method Test Class
+[INFO ] 2024-01-29 10:24:21.006 [main] Log - XXXXXXXXXXXXXXXXXXXXXXXXXXX     E--N--D    XXXXXXXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2024-01-29 10:26:38.479 [main] Log - Test is starting!
+[INFO ] 2024-01-29 10:26:38.633 [main] Log - **********************************************************************
+[INFO ] 2024-01-29 10:26:38.634 [main] Log - loginWithWrongCredentials test is starting
+[INFO ] 2024-01-29 10:26:38.634 [main] Log - **********************************************************************
+[INFO ] 2024-01-29 10:26:53.014 [main] Log - loginWithWrongCredentials test is succed
+[INFO ] 2024-01-29 10:26:53.025 [main] Log - **********************************************************************
+[INFO ] 2024-01-29 10:26:53.025 [main] Log - loginWithWrongCredentials test is starting
+[INFO ] 2024-01-29 10:26:53.026 [main] Log - **********************************************************************
+[INFO ] 2024-01-29 10:27:08.297 [main] Log - loginWithWrongCredentials test is succed
+[INFO ] 2024-01-29 10:27:08.306 [main] Log - **********************************************************************
+[INFO ] 2024-01-29 10:27:08.307 [main] Log - loginWithWrongCredentials test is starting
+[INFO ] 2024-01-29 10:27:08.310 [main] Log - **********************************************************************
+[INFO ] 2024-01-29 10:27:22.055 [main] Log - loginWithWrongCredentials test is succed
+[INFO ] 2024-01-29 10:27:22.064 [main] Log - **********************************************************************
+[INFO ] 2024-01-29 10:27:22.065 [main] Log - loginWithRightCredentials test is starting
+[INFO ] 2024-01-29 10:27:22.065 [main] Log - **********************************************************************
+[INFO ] 2024-01-29 10:27:34.029 [main] Log - loginWithRightCredentials test is failed
+[INFO ] 2024-01-29 10:27:34.066 [main] Log - Test is ending!
+[INFO ] 2024-01-29 10:27:34.772 [main] Log - Finishing method Test Class
+[INFO ] 2024-01-29 10:27:34.773 [main] Log - XXXXXXXXXXXXXXXXXXXXXXXXXXX     E--N--D    XXXXXXXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2024-01-29 10:31:32.477 [main] Log - **********************************************************************
+[INFO ] 2024-01-29 10:31:32.495 [main] Log - loginWithWrongCredentials test is starting
+[INFO ] 2024-01-29 10:31:32.497 [main] Log - **********************************************************************
+[INFO ] 2024-01-29 10:31:32.504 [main] Log - loginWithWrongCredentials test is skipped
+[INFO ] 2024-01-29 10:31:33.782 [main] Log - loginWithWrongCredentials test is failed
+[INFO ] 2024-01-29 10:31:33.788 [main] Log - Finishing method Test Class
+[INFO ] 2024-01-29 10:31:33.788 [main] Log - XXXXXXXXXXXXXXXXXXXXXXXXXXX     E--N--D    XXXXXXXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2024-01-29 10:33:47.094 [main] Log - Test is starting!
+[INFO ] 2024-01-29 10:33:47.266 [main] Log - **********************************************************************
+[INFO ] 2024-01-29 10:33:47.267 [main] Log - loginWithWrongCredentials test is starting
+[INFO ] 2024-01-29 10:33:47.267 [main] Log - **********************************************************************
+[INFO ] 2024-01-29 10:34:01.289 [main] Log - loginWithWrongCredentials test is succed
+[INFO ] 2024-01-29 10:34:01.299 [main] Log - **********************************************************************
+[INFO ] 2024-01-29 10:34:01.299 [main] Log - loginWithWrongCredentials test is starting
+[INFO ] 2024-01-29 10:34:01.300 [main] Log - **********************************************************************
+[INFO ] 2024-01-29 10:34:12.874 [main] Log - loginWithWrongCredentials test is succed
+[INFO ] 2024-01-29 10:34:12.879 [main] Log - **********************************************************************
+[INFO ] 2024-01-29 10:34:12.880 [main] Log - loginWithWrongCredentials test is starting
+[INFO ] 2024-01-29 10:34:12.882 [main] Log - **********************************************************************
+[INFO ] 2024-01-29 10:34:21.013 [main] Log - loginWithWrongCredentials test is succed
+[INFO ] 2024-01-29 10:34:21.022 [main] Log - **********************************************************************
+[INFO ] 2024-01-29 10:34:21.023 [main] Log - loginWithRightCredentials test is starting
+[INFO ] 2024-01-29 10:34:21.023 [main] Log - **********************************************************************
+[INFO ] 2024-01-29 10:34:30.145 [main] Log - loginWithRightCredentials test is failed
+[INFO ] 2024-01-29 10:34:30.190 [main] Log - Test is ending!
+[INFO ] 2024-01-29 10:34:30.752 [main] Log - Finishing method Test Class
+[INFO ] 2024-01-29 10:34:30.753 [main] Log - XXXXXXXXXXXXXXXXXXXXXXXXXXX     E--N--D    XXXXXXXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2024-01-29 10:37:58.355 [main] Log - Test is starting!
+[INFO ] 2024-01-29 10:37:58.595 [main] Log - **********************************************************************
+[INFO ] 2024-01-29 10:37:58.596 [main] Log - loginWithWrongCredentials test is starting
+[INFO ] 2024-01-29 10:37:58.597 [main] Log - **********************************************************************
+[INFO ] 2024-01-29 10:38:13.225 [main] Log - loginWithWrongCredentials test is succed
+[INFO ] 2024-01-29 10:38:13.237 [main] Log - **********************************************************************
+[INFO ] 2024-01-29 10:38:13.238 [main] Log - loginWithWrongCredentials test is starting
+[INFO ] 2024-01-29 10:38:13.239 [main] Log - **********************************************************************
+[INFO ] 2024-01-29 10:38:50.472 [main] Log - loginWithWrongCredentials test is succed
+[INFO ] 2024-01-29 10:38:50.477 [main] Log - **********************************************************************
+[INFO ] 2024-01-29 10:38:50.479 [main] Log - loginWithWrongCredentials test is starting
+[INFO ] 2024-01-29 10:38:50.480 [main] Log - **********************************************************************
+[INFO ] 2024-01-29 10:39:17.477 [main] Log - loginWithWrongCredentials test is succed
+[INFO ] 2024-01-29 10:39:17.488 [main] Log - **********************************************************************
+[INFO ] 2024-01-29 10:39:17.489 [main] Log - loginWithRightCredentials test is starting
+[INFO ] 2024-01-29 10:39:17.489 [main] Log - **********************************************************************
+[INFO ] 2024-01-29 10:40:07.934 [main] Log - loginWithRightCredentials test is succed
+[INFO ] 2024-01-29 10:40:07.941 [main] Log - Test is ending!
+[INFO ] 2024-01-29 10:40:08.963 [main] Log - Finishing method Test Class
+[INFO ] 2024-01-29 10:40:08.964 [main] Log - XXXXXXXXXXXXXXXXXXXXXXXXXXX     E--N--D    XXXXXXXXXXXXXXXXXXXXXXXXXXX

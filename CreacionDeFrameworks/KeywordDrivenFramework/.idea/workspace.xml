@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35d90944-1d1a-4e2a-9d0d-a75e80310f3e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../DataDriven/${fileame}" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataDriven/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataDriven/results/extent-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataDriven/src/main/java/framework/base/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataDriven/src/main/java/framework/base/BrowserType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataDriven/src/main/java/framework/base/DriverFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataDriven/src/main/java/framework/base/FrameworkException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataDriven/src/main/java/framework/config/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataDriven/src/main/java/framework/config/CreateFolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataDriven/src/main/java/framework/config/ExcelReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataDriven/src/main/java/framework/config/PropertyManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataDriven/src/main/java/framework/utils/data/ExcelUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataDriven/src/main/java/framework/utils/data/JSONUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataDriven/src/main/java/framework/utils/extentreports/ExtentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataDriven/src/main/java/framework/utils/extentreports/ExtentTestManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataDriven/src/main/java/framework/utils/listeners/AnnotationTransform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataDriven/src/main/java/framework/utils/listeners/Retry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataDriven/src/main/java/framework/utils/listeners/TestListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataDriven/src/main/java/framework/utils/logs/Log.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataDriven/src/main/java/framework/utils/ui/SeleniumUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataDriven/src/main/java/framework/utils/ui/WaitUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataDriven/src/main/java/framework/utils/verifications/VerificationInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataDriven/src/main/java/framework/utils/verifications/VerificationUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataDriven/src/main/java/framework/utils/video/SpecializedScreenRecorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataDriven/src/main/java/framework/utils/video/VideoRecorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataDriven/src/main/resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataDriven/src/main/resources/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataDriven/src/main/resources/dataresources/Users.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataDriven/src/main/resources/dataresources/Users.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataDriven/src/main/resources/extent.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataDriven/src/main/resources/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataDriven/src/test/java/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataDriven/src/test/java/pages/MainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataDriven/src/test/java/test/Base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataDriven/src/test/java/test/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataDriven/src/test/java/test/testClassRunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataDriven/src/test/java/testdata/DataClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/${fileame}" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/extent-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/framework/base/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/framework/base/BrowserType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/framework/base/DriverFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/framework/base/FrameworkException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/framework/config/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/framework/config/CreateFolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/framework/config/ExcelReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/framework/config/PropertyManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/framework/config/PropertyManagerInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/framework/config/ReadObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/framework/utils/data/ExcelUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/framework/utils/extentreports/ExtentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/framework/utils/extentreports/ExtentTestManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/framework/utils/listeners/AnnotationTransform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/framework/utils/listeners/Retry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/framework/utils/listeners/TestListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/framework/utils/logs/Log.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/framework/utils/ui/ActionKeywords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/framework/utils/ui/SeleniumUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/framework/utils/ui/WaitUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/framework/utils/verifications/VerificationInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/framework/utils/verifications/VerificationUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/framework/utils/video/SpecializedScreenRecorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/framework/utils/video/VideoRecorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/ObjRepo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/extent.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/models/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/models/TestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/models/TestSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/Base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/DataEngine.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/ExecutionEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/testClassRunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testdata/DataClass.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2bdxaKAEc092MOtwHaAlurgDTEI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.C:/Users/jobss/Desktop/TitaniumInstituteEjercicios/CreacionDeFrameworks/KeywordDrivenFramework/src/test/java/test/testClassRunner.xml.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/jobss/Desktop/TitaniumInstituteEjercicios/CreacionDeFrameworks/KeywordDrivenFramework/src/test/java/test",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jobss\Desktop\TitaniumInstituteEjercicios\CreacionDeFrameworks\KeywordDrivenFramework\src\test\java\test" />
+      <recent name="C:\Users\jobss\Desktop\TitaniumInstituteEjercicios\CreacionDeFrameworks\KeywordDrivenFramework\src\test\java" />
+      <recent name="C:\Users\jobss\Desktop\TitaniumInstituteEjercicios\CreacionDeFrameworks\KeywordDrivenFramework\src\main\resources" />
+      <recent name="C:\Users\jobss\Desktop\TitaniumInstituteEjercicios\CreacionDeFrameworks\KeywordDrivenFramework\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="C:/Users/jobss/Desktop/TitaniumInstituteEjercicios/CreacionDeFrameworks/KeywordDrivenFramework/src/test/java/test/testClassRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="KeywordDrivenFramework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/test/testClassRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/jobss/Desktop/TitaniumInstituteEjercicios/CreacionDeFrameworks/KeywordDrivenFramework/src/test/java/test/testClassRunner.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35d90944-1d1a-4e2a-9d0d-a75e80310f3e" name="Changes" comment="" />
+      <created>1706558821704</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706558821704</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

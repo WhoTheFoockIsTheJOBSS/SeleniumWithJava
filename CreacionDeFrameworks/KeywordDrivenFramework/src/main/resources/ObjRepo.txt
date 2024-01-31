@@ -1,0 +1,11 @@
+#********************************* Main Page **********************************
+dvPreloading = wsps-preloading
+spnTI = wsps-schoolname
+
+#******************************** Login Page **********************************
+txtUser = user_login
+txtPassword = pwd
+chkRememberMe = #rememberme
+btnLogin = //input[contains(@value, 'Log In')]
+lblError = login_error
+goToDashboard = wp-admin-bar-dashboard

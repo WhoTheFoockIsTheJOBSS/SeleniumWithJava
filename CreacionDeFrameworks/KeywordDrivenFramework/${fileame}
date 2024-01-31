@@ -1,0 +1,37 @@
+[INFO ] 2024-01-30 15:38:11.202 [main] Log - Test is starting!
+[ERROR] 2024-01-30 15:38:11.322 [main] Log - Class ExcelUtils | Method getExcelTableArray | Exception desc: C:\Users\jobss\Desktop\TitaniumInstituteEjercicios\CreacionDeFrameworks\KeywordDrivenFramework\src\test\java\testDataEngine.xlsx (El sistema no puede encontrar el archivo especificado)
+[INFO ] 2024-01-30 15:38:11.328 [main] Log - DriverScript test is failed
+[INFO ] 2024-01-30 15:38:12.296 [main] Log - Test is ending!
+[INFO ] 2024-01-30 15:38:14.474 [main] Log - Finishing method Test Class
+[INFO ] 2024-01-30 15:38:14.474 [main] Log - XXXXXXXXXXXXXXXXXXXXXXXXXXX     E--N--D    XXXXXXXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2024-01-30 16:39:22.564 [main] Log - Test is starting!
+[ERROR] 2024-01-30 16:39:26.625 [main] Log - Class ExcelUtils | Method getCellData | Excel desc: Cannot get a STRING value from a NUMERIC cell
+[ERROR] 2024-01-30 16:39:26.641 [main] Log - Class ExcelUtils | Method getCellData | Excel desc: Cannot get a STRING value from a NUMERIC cell
+[INFO ] 2024-01-30 16:39:26.689 [main] Log - DriverScript test is failed
+[INFO ] 2024-01-30 16:39:27.899 [main] Log - Test is ending!
+[INFO ] 2024-01-30 16:39:29.015 [main] Log - Finishing method Test Class
+[INFO ] 2024-01-30 16:39:29.016 [main] Log - XXXXXXXXXXXXXXXXXXXXXXXXXXX     E--N--D    XXXXXXXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2024-01-30 16:54:43.203 [main] Log - Test is starting!
+[ERROR] 2024-01-30 16:54:45.887 [main] Log - Class ExcelUtils | Method getCellData | Excel desc: Cannot get a STRING value from a NUMERIC cell
+[ERROR] 2024-01-30 16:54:45.894 [main] Log - Class ExcelUtils | Method getCellData | Excel desc: Cannot get a STRING value from a NUMERIC cell
+[INFO ] 2024-01-30 16:54:45.924 [main] Log - DriverScript test is failed
+[INFO ] 2024-01-30 16:54:46.912 [main] Log - Test is ending!
+[INFO ] 2024-01-30 16:54:47.900 [main] Log - Finishing method Test Class
+[INFO ] 2024-01-30 16:54:47.900 [main] Log - XXXXXXXXXXXXXXXXXXXXXXXXXXX     E--N--D    XXXXXXXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2024-01-30 17:18:17.749 [main] Log - Test is starting!
+[ERROR] 2024-01-30 17:18:20.661 [main] Log - Class ExcelUtils | Method getCellData | Excel desc: Cannot get a STRING value from a NUMERIC cell
+[ERROR] 2024-01-30 17:18:20.667 [main] Log - Class ExcelUtils | Method getCellData | Excel desc: Cannot get a STRING value from a NUMERIC cell
+[INFO ] 2024-01-30 17:18:20.687 [main] Log - DriverScript test is failed
+[INFO ] 2024-01-30 17:18:21.332 [main] Log - Test is ending!
+[INFO ] 2024-01-30 17:18:22.268 [main] Log - Finishing method Test Class
+[INFO ] 2024-01-30 17:18:22.268 [main] Log - XXXXXXXXXXXXXXXXXXXXXXXXXXX     E--N--D    XXXXXXXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2024-01-30 18:17:39.805 [main] Log - Test is starting!
+[INFO ] 2024-01-30 18:17:42.249 [main] Log - DriverScript test is failed
+[INFO ] 2024-01-30 18:17:42.789 [main] Log - Test is ending!
+[INFO ] 2024-01-30 18:17:43.378 [main] Log - Finishing method Test Class
+[INFO ] 2024-01-30 18:17:43.378 [main] Log - XXXXXXXXXXXXXXXXXXXXXXXXXXX     E--N--D    XXXXXXXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2024-01-30 18:24:16.055 [main] Log - Test is starting!
+[INFO ] 2024-01-30 18:24:18.406 [main] Log - DriverScript test is failed
+[INFO ] 2024-01-30 18:24:19.101 [main] Log - Test is ending!
+[INFO ] 2024-01-30 18:24:20.022 [main] Log - Finishing method Test Class
+[INFO ] 2024-01-30 18:24:20.022 [main] Log - XXXXXXXXXXXXXXXXXXXXXXXXXXX     E--N--D    XXXXXXXXXXXXXXXXXXXXXXXXXXX
