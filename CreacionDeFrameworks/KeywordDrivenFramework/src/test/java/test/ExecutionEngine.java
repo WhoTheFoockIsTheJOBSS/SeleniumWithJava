@@ -1,11 +1,11 @@
 package test;
 
 import framework.config.ReadObject;
+import java.lang.reflect.InvocationTargetException;
 import org.apache.poi.ss.usermodel.Sheet;
+import org.testng.Assert;
 import org.testng.annotations.Test;
 import testdata.DataClass;
-
-import java.lang.reflect.InvocationTargetException;
 
 import static framework.config.Constants.*;
 import static framework.utils.extentreports.ExtentTestManager.startTest;
@@ -15,7 +15,6 @@ public class ExecutionEngine extends Base{
         for (int i=0; i<methods.length; i++){
             if (methods[i].getName().equals(testStep.getActionKeyword())){
                 testStepResult = (boolean) methods[i].invoke(actionKeywords, ReadObject.getInstance().getProperty(testStep.getPageObject()), testStep.getData());
-                //methods[i].invoke(actionKeywords, ReadObject.getInstance().getProperty(testStep.getPageObject()), testStep.getData());
                 break;
             }
         }

@@ -5,7 +5,7 @@
         <listener class-name="framework.utils.listeners.TestListener"/>
         <listener class-name="framework.utils.listeners.AnnotationTransform"/>
     </listeners>
-    <test name="Test Class">
+    <test name="ChromeTest">
         <parameter name="browser" value="CHROME"/>
         <classes>
             <class name="test.ExecutionEngine"/>

@@ -5,62 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35d90944-1d1a-4e2a-9d0d-a75e80310f3e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/${fileame}" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/results/extent-report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/main/java/framework/base/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/main/java/framework/base/BrowserType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/main/java/framework/base/DriverFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/main/java/framework/base/FrameworkException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/main/java/framework/base/LocalDriverFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/main/java/framework/config/APIClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/main/java/framework/config/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/main/java/framework/config/CreateFolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/main/java/framework/config/ExcelReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/main/java/framework/config/PropertyManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/main/java/framework/utils/data/ExcelUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/main/java/framework/utils/data/JSONUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/main/java/framework/utils/data/SQLUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/main/java/framework/utils/extentreports/ExtentManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/main/java/framework/utils/extentreports/ExtentTestManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/main/java/framework/utils/listeners/AnnotationTransform.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/main/java/framework/utils/listeners/Retry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/main/java/framework/utils/listeners/TestListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/main/java/framework/utils/logs/Log.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/main/java/framework/utils/testrail/CaseModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/main/java/framework/utils/testrail/TestRailUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/main/java/framework/utils/ui/SeleniumUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/main/java/framework/utils/ui/WaitUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/main/java/framework/utils/verifications/VerificationInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/main/java/framework/utils/verifications/VerificationUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/main/java/framework/utils/video/SpecializedScreenRecorder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/main/java/framework/utils/video/VideoRecorder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/main/resources/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/main/resources/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/main/resources/dataresources/Students.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/main/resources/dataresources/Users.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/main/resources/dataresources/Users.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/main/resources/dataresources/queries/InvalidUsers.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/main/resources/dataresources/queries/ValidUsers.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/main/resources/extent.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/main/resources/log4j2.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/test/java/library/TestLibrary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/test/java/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/test/java/pages/MainPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/test/java/pages/NavPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/test/java/pages/StudentsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/test/java/testcases/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/test/java/testcases/LoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/test/java/testcases/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/test/java/testcases/testClassRunner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataDriven-TestLibrary/src/test/java/testdata/DataClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/test/ExecutionEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/ExecutionEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/testClassRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/testClassRunner.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
