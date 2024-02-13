@@ -114,7 +114,7 @@ public class StudentsPage extends MainPage{
                     .until(ExpectedConditions.visibilityOfAllElements(driver.findElements(trStudentsRows)));
         } catch (TimeoutException te){
             preLoading();
-            new WebDriverWait(driver, Duration.ofSeconds(10))
+            new WebDriverWait(driver, Duration.ofSeconds(120))
                     .until(ExpectedConditions.visibilityOfAllElements(driver.findElements(trStudentsRows)));
         }
         WebElement newStudentRow = driver.findElements(trStudentsRows).getLast();

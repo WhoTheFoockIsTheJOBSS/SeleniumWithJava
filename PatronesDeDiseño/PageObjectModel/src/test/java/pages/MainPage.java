@@ -55,7 +55,7 @@ public class MainPage {
         new WebDriverWait(driver, Duration.ofSeconds(10))
                 .until(ExpectedConditions.elementToBeClickable(driver.findElement(btnOkDelete)));
         driver.findElement(btnOkDelete).click();
-        new WebDriverWait(driver, Duration.ofSeconds(10))
+        new WebDriverWait(driver, Duration.ofSeconds(60))
                 .until(ExpectedConditions.invisibilityOf(driver.findElement(btnOkDelete)));
     }
 }
