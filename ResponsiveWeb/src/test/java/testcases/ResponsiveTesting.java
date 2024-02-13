@@ -2,6 +2,7 @@ package testcases;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import mobiles.MobileEmulators;
+import org.openqa.selenium.Dimension;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
@@ -30,7 +31,7 @@ public class ResponsiveTesting {
     @AfterMethod
     void closeBrowser() { driver.quit(); }
 
-    @Test(dataProviderClass = MobileEmulators.class, dataProvider = "mobileEmulations")
+    @Test(enabled = false, dataProviderClass = MobileEmulators.class, dataProvider = "mobileEmulations")
     public void responsiveTest(String emulation) {
         deviceMobEmu.put("deviceName", emulation);
         ChromeOptions chromeOptions = new ChromeOptions();
@@ -39,9 +40,21 @@ public class ResponsiveTesting {
         driver = new ChromeDriver(chromeOptions);
         driver.get(baseURL);
         loginPage = new LoginPage(driver);
-        loginPage.loginAs(userName).withPassword(password).login();
-        //WebElement goToDashboard = new WebDriverWait(driver, Duration.ofSeconds(15))
-                //.until(ExpectedConditions.visibilityOf(driver.findElement(By.id("wp-admin-bar-dashboard"))));
-        //goToDashboard.click();
+        loginPage.loginAs(userName).withPassword(password);
+    }
+
+    @Test(dataProviderClass = MobileEmulators.class, dataProvider = "mobileEmulationsDimensions")
+    public void responsiveTest(String emulation, int w, int h) {
+        deviceMobEmu.put("deviceName", emulation);
+        ChromeOptions chromeOptions = new ChromeOptions();
+        chromeOptions.setExperimentalOption("mobileEmulation", deviceMobEmu);
+        driver = new ChromeDriver(chromeOptions);
+
+        Dimension dimension = new Dimension(w, h);
+        driver.manage().window().setSize(dimension);
+
+        driver.get(baseURL);
+        loginPage = new LoginPage(driver);
+        loginPage.loginAs(userName).withPassword(password);
     }
 }

@@ -1,7 +1,9 @@
 package pages;
 
+import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
 
 public class LoginPage {
     @FindBy(id = "user_login")
@@ -12,6 +14,10 @@ public class LoginPage {
     private WebElement chkRememberMe;
     @FindBy(xpath = "//input[contains(@value, 'Log In')]")
     private WebElement btnLogin;
+
+    public LoginPage(WebDriver driver){
+        PageFactory.initElements(driver, this);
+    }
 
     public LoginPage loginAs(String userName){
         txtUser.clear();
